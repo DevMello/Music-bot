@@ -1,0 +1,5 @@
+{
+    "game": "!help",
+    "prefix": "!",
+    "token_bot": "your bot token"//no I am not gonna give you mine go get your own at https://discord.com/developers/applications
+}
